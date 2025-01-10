@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\bin\Debug\net7.0\CreateCustomRandomList.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\bin\Debug\net7.0\CreateCustomRandomList.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\bin\Debug\net7.0\CreateCustomRandomList.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\bin\Debug\net7.0\CreateCustomRandomList.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\bin\Debug\net7.0\CreateCustomRandomList.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\CreateCustomRandomList.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\CreateCustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\CreateCustomRandomList.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\CreateCustomRandomList.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\CreateCustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\CreateCustomRandomList.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\refint\CreateCustomRandomList.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\CreateCustomRandomList.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\CreateCustomRandomList.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomRandomList\obj\Debug\net7.0\ref\CreateCustomRandomList.dll

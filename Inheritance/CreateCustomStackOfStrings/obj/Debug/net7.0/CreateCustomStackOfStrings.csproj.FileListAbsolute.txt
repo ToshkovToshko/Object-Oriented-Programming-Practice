@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\bin\Debug\net7.0\CreateCustomStackOfStrings.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\bin\Debug\net7.0\CreateCustomStackOfStrings.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\bin\Debug\net7.0\CreateCustomStackOfStrings.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\bin\Debug\net7.0\CreateCustomStackOfStrings.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\bin\Debug\net7.0\CreateCustomStackOfStrings.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\CreateCustomStackOfStrings.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\CreateCustomStackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\CreateCustomStackOfStrings.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\CreateCustomStackOfStrings.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\CreateCustomStackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\CreateCustomStackOfStrings.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\refint\CreateCustomStackOfStrings.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\CreateCustomStackOfStrings.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\CreateCustomStackOfStrings.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\CreateCustomStackOfStrings\obj\Debug\net7.0\ref\CreateCustomStackOfStrings.dll

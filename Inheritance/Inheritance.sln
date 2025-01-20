@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleInheritance", "SingleInheritance\SingleInheritance.csproj", "{21D15DB3-2019-4379-B87F-09B4505A20EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleInheritance", "SingleInheritance\SingleInheritance.csproj", "{21D15DB3-2019-4379-B87F-09B4505A20EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInheritance", "MultipleInheritance\MultipleInheritance.csproj", "{78FD466E-6B7A-46B9-AC11-62F3BBFBAAD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleInheritance", "MultipleInheritance\MultipleInheritance.csproj", "{78FD466E-6B7A-46B9-AC11-62F3BBFBAAD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HierarchicalInheritance", "HierarchicalInheritance\HierarchicalInheritance.csproj", "{D42BC641-A719-4B99-9593-F515915320EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HierarchicalInheritance", "HierarchicalInheritance\HierarchicalInheritance.csproj", "{D42BC641-A719-4B99-9593-F515915320EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateCustomRandomList", "CreateCustomRandomList\CreateCustomRandomList.csproj", "{1045B944-2CA7-4BE3-A789-3184DCE8D4CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateCustomRandomList", "CreateCustomRandomList\CreateCustomRandomList.csproj", "{1045B944-2CA7-4BE3-A789-3184DCE8D4CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateCustomStackOfStrings", "CreateCustomStackOfStrings\CreateCustomStackOfStrings.csproj", "{75D55487-9CC0-43DA-B693-FA8E1B460A0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateCustomStackOfStrings", "CreateCustomStackOfStrings\CreateCustomStackOfStrings.csproj", "{75D55487-9CC0-43DA-B693-FA8E1B460A0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{590A3FC2-30C7-4C31-8FB8-8EE0AEDD86D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "Person\Person.csproj", "{590A3FC2-30C7-4C31-8FB8-8EE0AEDD86D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{E33F9935-3213-4040-8787-002F83C5DE65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoo", "Zoo\Zoo.csproj", "{E33F9935-3213-4040-8787-002F83C5DE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersAndMonsters", "PlayersAndMonsters\PlayersAndMonsters.csproj", "{17E34264-4727-41BC-B5E7-BD5AFFD02657}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E33F9935-3213-4040-8787-002F83C5DE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E33F9935-3213-4040-8787-002F83C5DE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E33F9935-3213-4040-8787-002F83C5DE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E34264-4727-41BC-B5E7-BD5AFFD02657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E34264-4727-41BC-B5E7-BD5AFFD02657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E34264-4727-41BC-B5E7-BD5AFFD02657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E34264-4727-41BC-B5E7-BD5AFFD02657}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\bin\Debug\net7.0\NeedForSpeed.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\bin\Debug\net7.0\NeedForSpeed.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\bin\Debug\net7.0\NeedForSpeed.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\bin\Debug\net7.0\NeedForSpeed.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\bin\Debug\net7.0\NeedForSpeed.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\NeedForSpeed.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\refint\NeedForSpeed.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\NeedForSpeed.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\NeedForSpeed\obj\Debug\net7.0\ref\NeedForSpeed.dll

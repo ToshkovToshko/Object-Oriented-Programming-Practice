@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\bin\Debug\net7.0\Restaurant.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\bin\Debug\net7.0\Restaurant.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\bin\Debug\net7.0\Restaurant.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\bin\Debug\net7.0\Restaurant.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\bin\Debug\net7.0\Restaurant.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\Restaurant.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\Restaurant.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\Restaurant.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\refint\Restaurant.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\Restaurant.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\Restaurant.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Inheritance\Restaurant\obj\Debug\net7.0\ref\Restaurant.dll

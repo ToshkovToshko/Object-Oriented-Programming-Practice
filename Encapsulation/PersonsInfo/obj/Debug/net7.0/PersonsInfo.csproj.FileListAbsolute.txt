@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\bin\Debug\net7.0\PersonsInfo.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\bin\Debug\net7.0\PersonsInfo.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\bin\Debug\net7.0\PersonsInfo.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\bin\Debug\net7.0\PersonsInfo.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\bin\Debug\net7.0\PersonsInfo.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\PersonsInfo.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\PersonsInfo.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\refint\PersonsInfo.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\PersonsInfo.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\PersonsInfo.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfo\obj\Debug\net7.0\ref\PersonsInfo.dll

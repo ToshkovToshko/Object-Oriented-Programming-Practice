@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\bin\Debug\net7.0\PersonsInfoWithValidation.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\bin\Debug\net7.0\PersonsInfoWithValidation.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\bin\Debug\net7.0\PersonsInfoWithValidation.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\bin\Debug\net7.0\PersonsInfoWithValidation.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\bin\Debug\net7.0\PersonsInfoWithValidation.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\PersonsInfoWithValidation.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\PersonsInfoWithValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\PersonsInfoWithValidation.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\PersonsInfoWithValidation.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\PersonsInfoWithValidation.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\PersonsInfoWithValidation.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\refint\PersonsInfoWithValidation.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\PersonsInfoWithValidation.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\PersonsInfoWithValidation.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithValidation\obj\Debug\net7.0\ref\PersonsInfoWithValidation.dll

@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\bin\Debug\net7.0\PersonsInfoWithSalary.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\bin\Debug\net7.0\PersonsInfoWithSalary.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\bin\Debug\net7.0\PersonsInfoWithSalary.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\bin\Debug\net7.0\PersonsInfoWithSalary.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\bin\Debug\net7.0\PersonsInfoWithSalary.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\PersonsInfoWithSalary.csproj.AssemblyReference.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\PersonsInfoWithSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\PersonsInfoWithSalary.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\PersonsInfoWithSalary.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\PersonsInfoWithSalary.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\PersonsInfoWithSalary.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\refint\PersonsInfoWithSalary.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\PersonsInfoWithSalary.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\PersonsInfoWithSalary.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Encapsulation\PersonsInfoWithSalary\obj\Debug\net7.0\ref\PersonsInfoWithSalary.dll

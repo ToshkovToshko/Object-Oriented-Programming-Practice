@@ -1,10 +1,9 @@
-﻿namespace PizzaCalories
+﻿
+
+namespace PizzaCalories
 {
     class Dough
     {
-        private const int minWeight = 1;
-        private const int maxWeight = 200;
-
         private string flourType;
         private string bakingTechnique;
         private int weight;
@@ -12,7 +11,7 @@
         public Dough(string flourType, string bakingtechnique, int weight)
         {
             this.FlourType = flourType;
-            this.BakingTechnique = bakingTechnique;
+            this.BakingTechnique = bakingtechnique;
             this.Weight = weight;
         }
 
@@ -21,12 +20,7 @@
             get => this.flourType;
             private set
             {
-                var valueAsLower = value.ToLower();
-
-                if (valueAsLower != "white" && valueAsLower != "wholegrain")
-                {
-                    throw new ArgumentException("Invalid type of dough!");
-                }
+                Validator.ThrowIfValueIsNotAllowed(new HashSet<string> { "white", "wholegrain"}, value.ToLower(), "Invalid type of dough!");
 
                 this.flourType = value;
             }
@@ -37,12 +31,7 @@
             get => this.bakingTechnique;
             private set
             {
-                var valueAsLower = value.ToLower();
-
-                if (valueAsLower != "crispy" && valueAsLower != "chewy" && valueAsLower != "homemade")
-                {
-                    throw new ArgumentException("Invalid baking technique!");
-                }
+                Validator.ThrowIfValueIsNotAllowed(new HashSet<string> {"crispy", "chewy", "homemade"}, value.ToLower(), "Invalid baking technique!");
 
                 this.bakingTechnique = value;
             }
@@ -53,14 +42,47 @@
             get => this.weight;
             private set
             {
-                if (value < minWeight || value > maxWeight)
-                {
-                    throw new ArgumentException($"Dough weight should be in the range [{minWeight}...{maxWeight}]!");
-                }
+                Validator.ThrowIfNumberIsNotInRange(Constants.DoughMinWeight, Constants.DoughMaxWeight, value, $"Dough weight should be in the range [{Constants.DoughMinWeight}...{Constants.DoughMaxWeight}]!");
 
                 this.weight = value;
             }
         }
+        
+        public double GetCalories()
+        {
+            var flourTypeModifier = GetFlourTypeModifier();
+            var bakingTechniqueModifier = GetBakingTechniqueModifier();
 
+            return this.Weight * 2 * flourTypeModifier * bakingTechniqueModifier;
+        }
+
+        private double GetBakingTechniqueModifier()
+        {
+            var bakingTechniqueLower = this.BakingTechnique.ToLower();
+
+            if (bakingTechniqueLower == "crispy")
+            {
+                return 0.9;
+            }
+            
+            if (bakingTechniqueLower == "chewy")
+            {
+                return 1.1;
+            }
+
+            return 1.0;
+        }
+
+        private double GetFlourTypeModifier()
+        {
+            var flourTypeLower = this.FlourType.ToLower();
+
+            if (flourTypeLower == "white")
+            {
+                return 1.5;
+            }
+
+            return 1;
+        }
     }
 }

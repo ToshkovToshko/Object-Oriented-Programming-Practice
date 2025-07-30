@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HierarchicalInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba0b5a7403e7ae2d4c6fbe0634d37c7819d84622")]
 [assembly: System.Reflection.AssemblyProductAttribute("HierarchicalInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HierarchicalInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

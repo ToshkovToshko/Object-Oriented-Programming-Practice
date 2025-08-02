@@ -4,54 +4,55 @@ string input = Console.ReadLine();
 
 List<Citizen> citizens = new List<Citizen>();
 List<Robot> robots = new List<Robot>();
+List<Pet> pets = new List<Pet>();
 
 while (input != "End")
 {
     string[] data = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-    if (data.Length == 4)
+    string type = data[0];
+
+    if (type == "Citizen")
     {
-        string name = data[0];
-        int age = int.Parse(data[1]);
-        string id = data[2];
-        string birthdate = data[3];
+        string name = data[1];
+        int age = int.Parse(data[2]);
+        string id = data[3];
+        string birthdate = data[4];
 
         Citizen citizen = new Citizen(name, age, id, birthdate);
         citizens.Add(citizen);
     }
-    else
+    else if(type == "Robot")
     {
-        string model = data[0];
-        string id = data[1];
+        string model = data[1];
+        string id = data[2];
 
         Robot robot = new Robot(model, id);
         robots.Add(robot);
+    }
+    else if (type == "Pet")
+    {
+        string name = data[1];
+        string birthdate = data[2];
+
+        Pet pet = new Pet(name, birthdate);
+        pets.Add(pet);
     }
 
     input = Console.ReadLine();
 }
 
-string fakeId = Console.ReadLine();
-
-List<string> fakeIds = new List<string>();
-
 foreach (var item in citizens)
 {
-    if (item.Id.EndsWith(fakeId))
-    {
-        fakeIds.Add(item.Id);
-    }
+    Console.WriteLine($"The citizen {item.Name} is {item.Age} years old, has Id: {item.Id} and the birthdate is at {item.Birthdate}.");
 }
 
 foreach (var item in robots)
 {
-    if (item.Id.EndsWith(fakeId))
-    {
-        fakeIds.Add(item.Id);
-    }
+    Console.WriteLine($"The robot {item.Model} with Id: {item.Id} is added.");
 }
 
-foreach (var item in fakeIds)
+foreach (var item in pets)
 {
-    Console.WriteLine(item);
+    Console.WriteLine($"The pet {item.Name} with birthdate {item.Birthdate} is added.");
 }

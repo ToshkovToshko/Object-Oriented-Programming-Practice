@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\bin\Debug\net8.0\Cars.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\bin\Debug\net8.0\Cars.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\bin\Debug\net8.0\Cars.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\bin\Debug\net8.0\Cars.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\bin\Debug\net8.0\Cars.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\Cars.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\Cars.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\Cars.sourcelink.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\Cars.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\refint\Cars.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\Cars.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\Cars.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Interfaces-And-Abstraction\Cars\obj\Debug\net8.0\ref\Cars.dll

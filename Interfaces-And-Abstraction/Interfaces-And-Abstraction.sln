@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "PersonInfo\Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Telephony.csproj", "{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryElite", "MilitaryElite\MilitaryElite.csproj", "{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

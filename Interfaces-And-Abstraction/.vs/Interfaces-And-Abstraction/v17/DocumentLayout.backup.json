@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|solutionrelative:telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\militaryelite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\militaryelite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\telephony\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|solutionrelative:telephony\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\telephony\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|solutionrelative:telephony\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\commando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\telephony\\ibrowsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|solutionrelative:telephony\\ibrowsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\telephony\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|solutionrelative:telephony\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\lieutenantgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\lieutenantgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\telephony\\icallable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CC785EE-2BD3-43FC-B4F7-5674E0DCBB14}|Telephony\\Telephony.csproj|solutionrelative:telephony\\icallable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\repair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\specialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\specialisedsoldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\interfaces-and-abstraction\\militaryelite\\models\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C53BC5-D8D4-40FA-A626-B06BAF2FD04B}|MilitaryElite\\MilitaryElite.csproj|solutionrelative:militaryelite\\models\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +54,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MilitaryElite",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\MilitaryElite.csproj",
+              "RelativeDocumentMoniker": "MilitaryElite\\MilitaryElite.csproj",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\MilitaryElite.csproj",
+              "RelativeToolTip": "MilitaryElite\\MilitaryElite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T19:53:15.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Mission.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Mission.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Mission.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Mission.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:49:23.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repair.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Repair.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Repair.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Repair.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Repair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:48:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Commando.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Commando.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Commando.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Commando.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Commando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:46:59.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpecialisedSoldier.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\SpecialisedSoldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\SpecialisedSoldier.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\SpecialisedSoldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\SpecialisedSoldier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:41:29.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Engineer.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Engineer.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Engineer.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Engineer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:40:57.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LieutenantGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\LieutenantGeneral.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\LieutenantGeneral.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\LieutenantGeneral.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\LieutenantGeneral.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:35:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Private.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Private.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Private.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Private.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Private.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:31:27.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Soldier.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Soldier.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Soldier.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Soldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:29:51.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\StartUp.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\StartUp.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\StartUp.cs",
+              "RelativeToolTip": "MilitaryElite\\StartUp.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:48:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Spy.cs",
+              "RelativeDocumentMoniker": "MilitaryElite\\Models\\Spy.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\MilitaryElite\\Models\\Spy.cs",
+              "RelativeToolTip": "MilitaryElite\\Models\\Spy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:34:07.608Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -47,84 +210,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StationaryPhone.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\StationaryPhone.cs",
-              "RelativeDocumentMoniker": "Telephony\\StationaryPhone.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\StationaryPhone.cs",
-              "RelativeToolTip": "Telephony\\StationaryPhone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T17:04:30.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Smartphone.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\Smartphone.cs",
-              "RelativeDocumentMoniker": "Telephony\\Smartphone.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\Smartphone.cs",
-              "RelativeToolTip": "Telephony\\Smartphone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T17:01:10.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Phone.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\Phone.cs",
-              "RelativeDocumentMoniker": "Telephony\\Phone.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\Phone.cs",
-              "RelativeToolTip": "Telephony\\Phone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:59:43.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBrowsable.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\IBrowsable.cs",
-              "RelativeDocumentMoniker": "Telephony\\IBrowsable.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\IBrowsable.cs",
-              "RelativeToolTip": "Telephony\\IBrowsable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:57:15.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICallable.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\ICallable.cs",
-              "RelativeDocumentMoniker": "Telephony\\ICallable.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\ICallable.cs",
-              "RelativeToolTip": "Telephony\\ICallable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:56:10.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\StartUp.cs",
-              "RelativeDocumentMoniker": "Telephony\\StartUp.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Interfaces-And-Abstraction\\Telephony\\StartUp.cs",
-              "RelativeToolTip": "Telephony\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:55:37.718Z",
-              "EditorCaption": ""
             }
           ]
         }

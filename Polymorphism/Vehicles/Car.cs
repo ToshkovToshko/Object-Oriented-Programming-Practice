@@ -4,8 +4,8 @@
     {
         private const double airConditioner = 0.9;
 
-        public Car(double fuelQuantity, double fuelConsumption) 
-            : base(fuelQuantity, fuelConsumption, airConditioner)
+        public Car(double fuelQuantity, double fuelConsumption, double tankCapacity) 
+            : base(fuelQuantity, fuelConsumption, tankCapacity, airConditioner)
         {
         }
     }

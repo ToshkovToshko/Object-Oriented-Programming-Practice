@@ -2,6 +2,7 @@
 
 Vehicle car = CreateVehicle();
 Vehicle truck = CreateVehicle();
+Vehicle bus = CreateVehicle();
 
 int n = int.Parse(Console.ReadLine());
 
@@ -13,42 +14,33 @@ for (int i = 0; i < n; i++)
     string type = commands[1];
     double ammount = double.Parse(commands[2]);
 
-    if (command == "Drive")
-    {
-        try
-        {
-            if (type == nameof(Car))
-            {
-                car.Drive(ammount);
-            }
-            else if (type == nameof(Truck))
-            {
-                truck.Drive(ammount);
-            }
-
-            Console.WriteLine($"{type} travelled {ammount} km");
-        }
-        catch (InvalidOperationException ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
-        
-    }
-    else if (command == "Refuel")
+    try
     {
         if (type == nameof(Car))
         {
-            car.Refuel(ammount);
+            ProcessCommand(car, command, ammount);
         }
         else if (type == nameof(Truck))
         {
-            truck.Refuel(ammount);
+            ProcessCommand(truck, command, ammount);
+        }
+        else if (type == nameof(Bus))
+        {
+            ProcessCommand(bus, command, ammount);
         }
     }
+    catch (Exception ex)
+        when(ex is InvalidOperationException || ex is ArgumentException)
+    {
+        Console.WriteLine(ex.Message);
+    }
+
+    
 }
 
 Console.WriteLine(car);
 Console.WriteLine(truck);
+Console.WriteLine(bus);
 
 static Vehicle CreateVehicle()
 {
@@ -57,17 +49,42 @@ static Vehicle CreateVehicle()
     string type = vehicleInfo[0];
     double fuelQuantity = double.Parse(vehicleInfo[1]);
     double fuelConsumption = double.Parse(vehicleInfo[2]);
+    double tankCapacity = double.Parse(vehicleInfo[3]);
 
     Vehicle vehicle = null;
 
     if (type == nameof(Car))
     {
-        vehicle = new Car(fuelQuantity, fuelConsumption);
+        vehicle = new Car(fuelQuantity, fuelConsumption, tankCapacity);
     }
     else if (type == nameof(Truck))
     {
-        vehicle = new Truck(fuelQuantity, fuelConsumption);
+        vehicle = new Truck(fuelQuantity, fuelConsumption, tankCapacity);
+    }
+    else if (type == nameof(Bus))
+    {
+        vehicle = new Bus(fuelQuantity, fuelConsumption, tankCapacity);
     }
 
     return vehicle;
+}
+
+static void ProcessCommand(Vehicle vehicle, string command, double parameter)
+{
+    if (command == "Drive")
+    {
+        vehicle.Drive(parameter);
+
+        Console.WriteLine($"{vehicle.GetType().Name} travelled {parameter} km");
+    }
+    else if (command == "Refuel")
+    {
+        vehicle.Refuel(parameter);
+    }
+    else if (command == "DriveEmpty")
+    {
+        ((Bus)vehicle).DriveEmpty(parameter);
+
+        Console.WriteLine($"{vehicle.GetType().Name} travelled {parameter} km");
+    }
 }

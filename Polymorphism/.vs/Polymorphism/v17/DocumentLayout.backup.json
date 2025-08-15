@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\raiding\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|solutionrelative:raiding\\rogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\raiding\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|solutionrelative:raiding\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\animals\\mammals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\mammals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\raiding\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|solutionrelative:raiding\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\animals\\mammals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\mammals\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\raiding\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|solutionrelative:raiding\\druid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\animals\\mammals\\felines\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\mammals\\felines\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\raiding\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|solutionrelative:raiding\\basehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\animals\\birds\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\birds\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\raiding\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD67B68E-C20D-40E7-99D8-6F92686DB587}|Raiding\\Raiding.csproj|solutionrelative:raiding\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\animals\\birds\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\birds\\hen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\animals\\birds\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\birds\\owl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\animals\\mammals\\felines\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\mammals\\felines\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\polymorphism\\wildfarm\\animals\\mammals\\felines\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3C4005-EE9E-4B0E-8552-A194A9A62631}|WildFarm\\WildFarm.csproj|solutionrelative:wildfarm\\animals\\mammals\\felines\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Rogue.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\Rogue.cs",
-              "RelativeDocumentMoniker": "Raiding\\Rogue.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\Rogue.cs",
-              "RelativeToolTip": "Raiding\\Rogue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Birds\\Bird.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Birds\\Bird.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Birds\\Bird.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Birds\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:47:55.82Z",
+              "WhenOpened": "2025-08-14T18:24:29.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hen.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Birds\\Hen.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Birds\\Hen.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Birds\\Hen.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Birds\\Hen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:24:14.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Owl.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Birds\\Owl.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Birds\\Owl.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Birds\\Owl.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Birds\\Owl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:23:59.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Feline.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Felines\\Feline.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Mammals\\Felines\\Feline.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Felines\\Feline.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Mammals\\Felines\\Feline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:23:19.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\StartUp.cs",
+              "RelativeDocumentMoniker": "WildFarm\\StartUp.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\StartUp.cs",
+              "RelativeToolTip": "WildFarm\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:27:57.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Dog.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Mammals\\Dog.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Dog.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Mammals\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:22:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mouse.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Mouse.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Mammals\\Mouse.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Mouse.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Mammals\\Mouse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:22:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Felines\\Cat.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Mammals\\Felines\\Cat.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Felines\\Cat.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Mammals\\Felines\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:23:35.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Felines\\Tiger.cs",
+              "RelativeDocumentMoniker": "WildFarm\\Animals\\Mammals\\Felines\\Tiger.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\WildFarm\\Animals\\Mammals\\Felines\\Tiger.cs",
+              "RelativeToolTip": "WildFarm\\Animals\\Mammals\\Felines\\Tiger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T18:22:59.263Z",
               "EditorCaption": ""
             },
             {
@@ -60,71 +176,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Warrior.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\Warrior.cs",
-              "RelativeDocumentMoniker": "Raiding\\Warrior.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\Warrior.cs",
-              "RelativeToolTip": "Raiding\\Warrior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:48:52.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Paladin.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\Paladin.cs",
-              "RelativeDocumentMoniker": "Raiding\\Paladin.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\Paladin.cs",
-              "RelativeToolTip": "Raiding\\Paladin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:46:56.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Druid.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\Druid.cs",
-              "RelativeDocumentMoniker": "Raiding\\Druid.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\Druid.cs",
-              "RelativeToolTip": "Raiding\\Druid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:45:42.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseHero.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\BaseHero.cs",
-              "RelativeDocumentMoniker": "Raiding\\BaseHero.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\BaseHero.cs",
-              "RelativeToolTip": "Raiding\\BaseHero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:41:24.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\StartUp.cs",
-              "RelativeDocumentMoniker": "Raiding\\StartUp.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Polymorphism\\Raiding\\StartUp.cs",
-              "RelativeToolTip": "Raiding\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T08:41:10.083Z",
-              "EditorCaption": ""
             }
           ]
         }

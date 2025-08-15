@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\Sq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNumbers", "EnterNumbers\EnterNumbers.csproj", "{752C7178-62DA-48FB-9231-5C2954AAB8C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatePerson", "ValidatePerson\ValidatePerson.csproj", "{76159E30-31D0-4047-843A-323724B2AD48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{752C7178-62DA-48FB-9231-5C2954AAB8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{752C7178-62DA-48FB-9231-5C2954AAB8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{752C7178-62DA-48FB-9231-5C2954AAB8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76159E30-31D0-4047-843A-323724B2AD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76159E30-31D0-4047-843A-323724B2AD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76159E30-31D0-4047-843A-323724B2AD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76159E30-31D0-4047-843A-323724B2AD48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

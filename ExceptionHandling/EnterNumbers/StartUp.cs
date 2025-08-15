@@ -1,4 +1,6 @@
-﻿int startNumber = int.Parse(Console.ReadLine());
+﻿using System;
+
+int startNumber = int.Parse(Console.ReadLine());
 int endNumber = int.Parse(Console.ReadLine());
 
 for (int i = 0; i < 10; i++)

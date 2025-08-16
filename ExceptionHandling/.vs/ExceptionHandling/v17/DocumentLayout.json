@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{752C7178-62DA-48FB-9231-5C2954AAB8C9}|EnterNumbers\\EnterNumbers.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\exceptionhandling\\enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{752C7178-62DA-48FB-9231-5C2954AAB8C9}|EnterNumbers\\EnterNumbers.csproj|solutionrelative:enternumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76159E30-31D0-4047-843A-323724B2AD48}|ValidatePerson\\ValidatePerson.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\exceptionhandling\\validateperson\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76159E30-31D0-4047-843A-323724B2AD48}|ValidatePerson\\ValidatePerson.csproj|solutionrelative:validateperson\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76159E30-31D0-4047-843A-323724B2AD48}|ValidatePerson\\ValidatePerson.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\exceptionhandling\\validateperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76159E30-31D0-4047-843A-323724B2AD48}|ValidatePerson\\ValidatePerson.csproj|solutionrelative:validateperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752C7178-62DA-48FB-9231-5C2954AAB8C9}|EnterNumbers\\EnterNumbers.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\exceptionhandling\\enternumbers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752C7178-62DA-48FB-9231-5C2954AAB8C9}|EnterNumbers\\EnterNumbers.csproj|solutionrelative:enternumbers\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{433FC0B0-3309-40B9-9CED-8B367DA89BE5}|SquareRoot\\SquareRoot.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\exceptionhandling\\squareroot\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +42,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\ValidatePerson\\Person.cs",
+              "RelativeDocumentMoniker": "ValidatePerson\\Person.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\ValidatePerson\\Person.cs",
+              "RelativeToolTip": "ValidatePerson\\Person.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:58:35.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\EnterNumbers\\Program.cs",
-              "RelativeDocumentMoniker": "EnterNumbers\\Program.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\EnterNumbers\\Program.cs*",
-              "RelativeToolTip": "EnterNumbers\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\ValidatePerson\\StartUp.cs",
+              "RelativeDocumentMoniker": "ValidatePerson\\StartUp.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\ValidatePerson\\StartUp.cs",
+              "RelativeToolTip": "ValidatePerson\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:57:49.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\EnterNumbers\\StartUp.cs",
+              "RelativeDocumentMoniker": "EnterNumbers\\StartUp.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\EnterNumbers\\StartUp.cs",
+              "RelativeToolTip": "EnterNumbers\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T11:49:36.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\ExceptionHandling\\SquareRoot\\StartUp.cs",
               "RelativeDocumentMoniker": "SquareRoot\\StartUp.cs",

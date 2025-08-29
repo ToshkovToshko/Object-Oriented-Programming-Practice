@@ -1,7 +1,9 @@
-﻿namespace Logger.Appenders
+﻿using Logger.Enums;
+
+namespace Logger.Appenders
 {
     public interface IAppender
     {
-        void Append(string date, string reportLevel, string message);
+        void Append(string date, ReportLevel reportLevel, string message);
     }
 }

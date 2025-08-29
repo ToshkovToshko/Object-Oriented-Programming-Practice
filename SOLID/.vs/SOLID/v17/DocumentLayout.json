@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\",
+  "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\solid\\logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\solid\\logger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\solid\\logger\\appenders\\appender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\appenders\\appender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\solid\\logger\\appenders\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\appenders\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\solid\\logger\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\solid\\logger\\layouts\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\layouts\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,77 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConsoleAppender.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Appenders\\ConsoleAppender.cs",
-              "RelativeDocumentMoniker": "Logger\\Appenders\\ConsoleAppender.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Appenders\\ConsoleAppender.cs",
-              "RelativeToolTip": "Logger\\Appenders\\ConsoleAppender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Title": "FileAppender.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\Logger\\Appenders\\FileAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Appenders\\FileAppender.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\Logger\\Appenders\\FileAppender.cs",
+              "RelativeToolTip": "Logger\\Appenders\\FileAppender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:39:06.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Appender.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Appenders\\Appender.cs",
-              "RelativeDocumentMoniker": "Logger\\Appenders\\Appender.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Appenders\\Appender.cs",
-              "RelativeToolTip": "Logger\\Appenders\\Appender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:36:15.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAppender.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Appenders\\IAppender.cs",
-              "RelativeDocumentMoniker": "Logger\\Appenders\\IAppender.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Appenders\\IAppender.cs",
-              "RelativeToolTip": "Logger\\Appenders\\IAppender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:33:27.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SimpleLayout.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Layouts\\SimpleLayout.cs",
-              "RelativeDocumentMoniker": "Logger\\Layouts\\SimpleLayout.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Layouts\\SimpleLayout.cs",
-              "RelativeToolTip": "Logger\\Layouts\\SimpleLayout.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:14:34.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ILayout.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Layouts\\ILayout.cs",
-              "RelativeDocumentMoniker": "Logger\\Layouts\\ILayout.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Layouts\\ILayout.cs",
-              "RelativeToolTip": "Logger\\Layouts\\ILayout.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T16:13:42.274Z",
+              "WhenOpened": "2025-08-28T20:55:40.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\Logger\\StartUp.cs",
               "RelativeDocumentMoniker": "Logger\\StartUp.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\StartUp.cs",
-              "RelativeToolTip": "Logger\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\Logger\\StartUp.cs*",
+              "RelativeToolTip": "Logger\\StartUp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T15:51:21.786Z",
               "EditorCaption": ""

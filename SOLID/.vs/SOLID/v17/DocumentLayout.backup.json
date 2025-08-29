@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\",
+  "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\solid\\logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\solid\\logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB55E80A-27D0-459D-9736-715F8643A30D}|Logger\\Logger.csproj|solutionrelative:logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAppender.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\Logger\\Appenders\\FileAppender.cs",
+              "RelativeDocumentMoniker": "Logger\\Appenders\\FileAppender.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\Logger\\Appenders\\FileAppender.cs",
+              "RelativeToolTip": "Logger\\Appenders\\FileAppender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T20:55:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Program.cs",
-              "RelativeDocumentMoniker": "Logger\\Program.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\SOLID\\Logger\\Program.cs",
-              "RelativeToolTip": "Logger\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\Logger\\StartUp.cs",
+              "RelativeDocumentMoniker": "Logger\\StartUp.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\SOLID\\Logger\\StartUp.cs*",
+              "RelativeToolTip": "Logger\\StartUp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T15:51:21.786Z",
               "EditorCaption": ""

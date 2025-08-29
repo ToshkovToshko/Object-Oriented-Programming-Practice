@@ -1,4 +1,5 @@
-﻿using Logger.Layouts;
+﻿using Logger.Enums;
+using Logger.Layouts;
 
 namespace Logger.Appenders
 {
@@ -9,7 +10,7 @@ namespace Logger.Appenders
         {
         }
 
-        public override void Append(string date, string reportLevel, string message)
+        public override void Append(string date, ReportLevel reportLevel, string message)
         {
             string content = string.Format(this.layout.Template, date, reportLevel, message);
 

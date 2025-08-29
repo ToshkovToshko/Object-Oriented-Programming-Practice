@@ -12,9 +12,14 @@ namespace Logger.Appenders
 
         public override void Append(string date, ReportLevel reportLevel, string message)
         {
-            string content = string.Format(this.layout.Template, date, reportLevel, message);
+            if (this.CanAppend(reportLevel))
+            {
+                this.MessagesCount += 1;
 
-            Console.WriteLine(content);
+                string content = string.Format(this.layout.Template, date, reportLevel, message);
+
+                Console.WriteLine(content);
+            }
         }
     }
 }

@@ -16,9 +16,19 @@ namespace Logger.Appenders
 
         public override void Append(string date, ReportLevel reportLevel, string message)
         {
-            string content = string.Format(this.layout.Template, date, reportLevel, message) + Environment.NewLine;
+            if (this.CanAppend(reportLevel))
+            {
+                this.MessagesCount += 1;
 
-            this.logfile.Write(content);
+                string content = string.Format(this.layout.Template, date, reportLevel, message) + Environment.NewLine;
+
+                this.logfile.Write(content);
+            }
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + $", File size: {this.logfile.Size}";
         }
     }
 }

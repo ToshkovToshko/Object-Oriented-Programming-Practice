@@ -9,5 +9,7 @@
         void Fatal(string date, string message);
 
         void Critical(string date, string message);
+
+        void Warning(string date, string message);
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\bin\Debug\net9.0\Stealer.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\bin\Debug\net9.0\Stealer.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\bin\Debug\net9.0\Stealer.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\bin\Debug\net9.0\Stealer.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\bin\Debug\net9.0\Stealer.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\Stealer.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\Stealer.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\Stealer.sourcelink.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\Stealer.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\refint\Stealer.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\Stealer.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\Stealer.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\Stealer\obj\Debug\net9.0\ref\Stealer.dll

@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\bin\Debug\net9.0\AuthorProblem.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\bin\Debug\net9.0\AuthorProblem.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\bin\Debug\net9.0\AuthorProblem.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\bin\Debug\net9.0\AuthorProblem.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\bin\Debug\net9.0\AuthorProblem.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\AuthorProblem.sourcelink.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\AuthorProblem.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\refint\AuthorProblem.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\AuthorProblem.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\AuthorProblem.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\AuthorProblem\obj\Debug\net9.0\ref\AuthorProblem.dll

@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\authorproblem\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\authorproblem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\authorproblem\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\authorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9EF12A-4C25-466F-AF53-3BD5E352828C}|AuthorProblem\\AuthorProblem.csproj|solutionrelative:authorproblem\\tracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BC0340-BAAF-4947-9E80-39FB48D170CC}|Stealer\\Stealer.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BC0340-BAAF-4947-9E80-39FB48D170CC}|Stealer\\Stealer.csproj|solutionrelative:stealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BC0340-BAAF-4947-9E80-39FB48D170CC}|Stealer\\Stealer.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BC0340-BAAF-4947-9E80-39FB48D170CC}|Stealer\\Stealer.csproj|solutionrelative:stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BC0340-BAAF-4947-9E80-39FB48D170CC}|Stealer\\Stealer.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BC0340-BAAF-4947-9E80-39FB48D170CC}|Stealer\\Stealer.csproj|solutionrelative:stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\Stealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "Stealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\Stealer\\StartUp.cs",
+              "RelativeToolTip": "Stealer\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:23:01.872Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -42,20 +67,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\Stealer\\Spy.cs",
+              "RelativeDocumentMoniker": "Stealer\\Spy.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\Stealer\\Spy.cs",
+              "RelativeToolTip": "Stealer\\Spy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:25:07.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hacker.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\Stealer\\Hacker.cs",
+              "RelativeDocumentMoniker": "Stealer\\Hacker.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\Stealer\\Hacker.cs",
+              "RelativeToolTip": "Stealer\\Hacker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:23:21.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tracker.cs",
               "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\AuthorProblem\\Tracker.cs",
               "RelativeDocumentMoniker": "AuthorProblem\\Tracker.cs",
               "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\AuthorProblem\\Tracker.cs",
               "RelativeToolTip": "AuthorProblem\\Tracker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T12:37:28.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AuthorAttribute.cs",
               "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\AuthorProblem\\AuthorAttribute.cs",
               "RelativeDocumentMoniker": "AuthorProblem\\AuthorAttribute.cs",

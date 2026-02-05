@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "AuthorProblem/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/AuthorProblem.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AuthorProblem.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AuthorProblem/1.0.0": {
+      "type": "project",
+      "path": "../AuthorProblem/AuthorProblem.csproj",
+      "msbuildProject": "../AuthorProblem/AuthorProblem.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "AuthorProblem >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\toshk\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\AuthorProblem\\AuthorProblem.csproj": {
+              "projectPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\AuthorProblem\\AuthorProblem.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

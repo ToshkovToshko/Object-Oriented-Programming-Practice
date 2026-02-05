@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC33F31D-8947-47A8-A09F-F40BC065FB9E}|CommandPattern\\CommandPattern.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\commandpattern\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC33F31D-8947-47A8-A09F-F40BC065FB9E}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\validateattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|solutionrelative:validateattributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC33F31D-8947-47A8-A09F-F40BC065FB9E}|CommandPattern\\CommandPattern.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\commandpattern\\core\\contracts\\icommandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC33F31D-8947-47A8-A09F-F40BC065FB9E}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\contracts\\icommandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\validateattributes\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|solutionrelative:validateattributes\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC33F31D-8947-47A8-A09F-F40BC065FB9E}|CommandPattern\\CommandPattern.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\commandpattern\\core\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC33F31D-8947-47A8-A09F-F40BC065FB9E}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\core\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\validateattributes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|solutionrelative:validateattributes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC33F31D-8947-47A8-A09F-F40BC065FB9E}|CommandPattern\\CommandPattern.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\commandpattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC33F31D-8947-47A8-A09F-F40BC065FB9E}|CommandPattern\\CommandPattern.csproj|solutionrelative:commandpattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\validateattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|solutionrelative:validateattributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\validateattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|solutionrelative:validateattributes\\attributes\\myvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|c:\\users\\toshk\\desktop\\programming\\oobject-oriented-programming-practice\\object-oriented-programming-practice\\reflection-and-attributes\\validateattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36D249A-CD77-4807-8920-792F49E2C3CD}|ValidateAttributes\\ValidateAttributes.csproj|solutionrelative:validateattributes\\attributes\\myrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +34,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Validator.cs",
+              "RelativeDocumentMoniker": "ValidateAttributes\\Validator.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Validator.cs",
+              "RelativeToolTip": "ValidateAttributes\\Validator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:04:38.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Person.cs",
+              "RelativeDocumentMoniker": "ValidateAttributes\\Person.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Person.cs",
+              "RelativeToolTip": "ValidateAttributes\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:00:46.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "ValidateAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeToolTip": "ValidateAttributes\\Attributes\\MyRequiredAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:58:33.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyRangeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeDocumentMoniker": "ValidateAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeToolTip": "ValidateAttributes\\Attributes\\MyRangeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:54:09.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeDocumentMoniker": "ValidateAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeToolTip": "ValidateAttributes\\Attributes\\MyValidationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:51:44.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\StartUp.cs",
+              "RelativeDocumentMoniker": "ValidateAttributes\\StartUp.cs",
+              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\ValidateAttributes\\StartUp.cs",
+              "RelativeToolTip": "ValidateAttributes\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T12:50:24.568Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -43,58 +129,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IEngine.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\CommandPattern\\Core\\Contracts\\IEngine.cs",
-              "RelativeDocumentMoniker": "CommandPattern\\Core\\Contracts\\IEngine.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\CommandPattern\\Core\\Contracts\\IEngine.cs",
-              "RelativeToolTip": "CommandPattern\\Core\\Contracts\\IEngine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T12:49:13.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICommandInterpreter.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\CommandPattern\\Core\\Contracts\\ICommandInterpreter.cs",
-              "RelativeDocumentMoniker": "CommandPattern\\Core\\Contracts\\ICommandInterpreter.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\CommandPattern\\Core\\Contracts\\ICommandInterpreter.cs",
-              "RelativeToolTip": "CommandPattern\\Core\\Contracts\\ICommandInterpreter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T12:48:53.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICommand.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\CommandPattern\\Core\\Contracts\\ICommand.cs",
-              "RelativeDocumentMoniker": "CommandPattern\\Core\\Contracts\\ICommand.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\CommandPattern\\Core\\Contracts\\ICommand.cs",
-              "RelativeToolTip": "CommandPattern\\Core\\Contracts\\ICommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T12:47:51.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\CommandPattern\\StartUp.cs",
-              "RelativeDocumentMoniker": "CommandPattern\\StartUp.cs",
-              "ToolTip": "C:\\Users\\toshk\\Desktop\\Programming\\Oobject-Oriented-Programming-Practice\\Object-Oriented-Programming-Practice\\Reflection-And-Attributes\\CommandPattern\\StartUp.cs",
-              "RelativeToolTip": "CommandPattern\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T12:46:28.999Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorProblem", "AuthorProb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{AC33F31D-8947-47A8-A09F-F40BC065FB9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateAttributes", "ValidateAttributes\ValidateAttributes.csproj", "{B36D249A-CD77-4807-8920-792F49E2C3CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AC33F31D-8947-47A8-A09F-F40BC065FB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC33F31D-8947-47A8-A09F-F40BC065FB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC33F31D-8947-47A8-A09F-F40BC065FB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36D249A-CD77-4807-8920-792F49E2C3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36D249A-CD77-4807-8920-792F49E2C3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36D249A-CD77-4807-8920-792F49E2C3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36D249A-CD77-4807-8920-792F49E2C3CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\bin\Debug\net9.0\ValidateAttributes.exe
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\bin\Debug\net9.0\ValidateAttributes.deps.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\bin\Debug\net9.0\ValidateAttributes.runtimeconfig.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\bin\Debug\net9.0\ValidateAttributes.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\bin\Debug\net9.0\ValidateAttributes.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ValidateAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ValidateAttributes.AssemblyInfoInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ValidateAttributes.AssemblyInfo.cs
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ValidateAttributes.csproj.CoreCompileInputs.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ValidateAttributes.sourcelink.json
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ValidateAttributes.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\refint\ValidateAttributes.dll
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ValidateAttributes.pdb
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ValidateAttributes.genruntimeconfig.cache
+C:\Users\toshk\Desktop\Programming\Oobject-Oriented-Programming-Practice\Object-Oriented-Programming-Practice\Reflection-And-Attributes\ValidateAttributes\obj\Debug\net9.0\ref\ValidateAttributes.dll
